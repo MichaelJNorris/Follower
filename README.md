@@ -1,4 +1,5 @@
 Follower
 ========
 
-Follow 1st order statistics of a data stream.
+Follow 1st order distribution of a data stream.
+
